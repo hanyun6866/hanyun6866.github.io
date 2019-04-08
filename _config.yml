@@ -14,7 +14,7 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2019
 
 # Author 配置博主信息
 author: '踏雪断蓝桥'
@@ -50,7 +50,6 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/hanyun6866'
-  twitter:'//twitter.com/hanyun6866'
   instagram: '//www.instagram.com/hanyun6866'
   github: '//github.com/hanyun6866'
 
